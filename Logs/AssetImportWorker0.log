@@ -1,0 +1,170 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1415; Version 2009; 64bit' Language: 'pl' Physical Memory: 12232 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/UNITYYYY najnowsze/UnityLab-main/Unity-Labs-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51758
+Successfully changed project path to: H:/UNITYYYY najnowsze/UnityLab-main/Unity-Labs-main
+H:/UNITYYYY najnowsze/UnityLab-main/Unity-Labs-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/UNITYYYY najnowsze/UnityLab-main/Unity-Labs-main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GT 1030 (ID=0x1d01)
+    Vendor:   
+    VRAM:     1982 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56452
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002401 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 61.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.747 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000960 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.418 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1383 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1863.
+Total: 16.698500 ms (FindLiveObjects: 0.255400 ms CreateObjectMapping: 0.845300 ms MarkObjects: 15.490400 ms  DeleteObjects: 0.105300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Blood.prefab
+  artifactKey: Guid(24474c53e9a31184da94dc5e1a9c6135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blood.prefab using Guid(24474c53e9a31184da94dc5e1a9c6135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5765afb3bc78a90cee40392ec4d1d9') in 0.427460 seconds
+  Import took 0.441164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/ParticleWater.prefab
+  artifactKey: Guid(3d671eb5dfb362345b20007b8f152a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ParticleWater.prefab using Guid(3d671eb5dfb362345b20007b8f152a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13527e3ec419fb53ef00c0000c9f79d') in 0.025630 seconds
+  Import took 0.045693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/WinnaBaba.prefab
+  artifactKey: Guid(88cf9eca1c564d9419bde55b9c2b2f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WinnaBaba.prefab using Guid(88cf9eca1c564d9419bde55b9c2b2f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f2bc44bced8792b021f93e09f929975') in 0.891662 seconds
+  Import took 0.900791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Tomcio.prefab
+  artifactKey: Guid(f3078d01134b9394f8121084393097ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tomcio.prefab using Guid(f3078d01134b9394f8121084393097ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87fae019c1a18535df2f7bfb6ccc4bdf') in 1.760449 seconds
+  Import took 1.767564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/TotalnyKozak.PNG
+  artifactKey: Guid(00333e5e840f3a949919437ffacf1bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TotalnyKozak.PNG using Guid(00333e5e840f3a949919437ffacf1bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493620008582ba22277d58f90543eab3') in 0.049170 seconds
+  Import took 0.052576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Hobbit.prefab
+  artifactKey: Guid(7eaf8f0745ed58e4887edeca96c2abcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hobbit.prefab using Guid(7eaf8f0745ed58e4887edeca96c2abcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62507fd6b7f500e0946675fa0f060c6') in 0.269131 seconds
+  Import took 0.281718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Oak2 (4).prefab
+  artifactKey: Guid(f42c4c19c77700e4dafc00b9db7cf6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oak2 (4).prefab using Guid(f42c4c19c77700e4dafc00b9db7cf6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3616a353227e7ed8f844c319ef3903a') in 0.118919 seconds
+  Import took 0.124403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/Elf.prefab
+  artifactKey: Guid(70284dfc8e288b443a098ed05230f9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elf.prefab using Guid(70284dfc8e288b443a098ed05230f9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90254dff403e3322a8adf4c4ac441671') in 0.511525 seconds
+  Import took 0.516481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Ziemniak.prefab
+  artifactKey: Guid(1c6be4faeca230947bea692fb8184422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ziemniak.prefab using Guid(1c6be4faeca230947bea692fb8184422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23120711bb1ae8b1eaf74cee143ce3cd') in 0.045197 seconds
+  Import took 0.051331 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001496 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.061 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.3 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1878.
+Total: 14.040700 ms (FindLiveObjects: 3.056100 ms CreateObjectMapping: 0.193300 ms MarkObjects: 10.739400 ms  DeleteObjects: 0.049100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
